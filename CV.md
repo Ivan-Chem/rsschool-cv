@@ -29,7 +29,7 @@ I think teaching chemistry needs some simple web tools that somehow haven't been
 ```
 
 ## Work experiance
--    Teacher of Chemistry, Physics, Mathematics (from 2003)
+-    Teacher of Chemistry, Physics, Mathematics (from 2004)
 -    Research scientist in electrochemistry (including fuel cells) (2006 -2009),
 -    Research scientist in the field of ion exchange and sorption (water and air purification, artificial soils; 2009-2011)
 -    Engineer for the development of waterproofing materials (based on bitumen; 2011)
