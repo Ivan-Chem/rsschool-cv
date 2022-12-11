@@ -25,7 +25,7 @@ I think teaching chemistry needs some simple web tools that somehow haven't been
 
 ## Sample code
 ```
-=ЕСЛИ(D4>0;(-B5+КОРЕНЬ(D4))/(2*B4);»Решений нет»)
+=ЕСЛИ(D4>0;(-B5+КОРЕНЬ(D4))/(2*B4);"Решений нет")
 ```
 
 ## Work experiance
