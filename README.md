@@ -1,1 +1,1 @@
-https://Ivan-Chem.github.io/rsschool-cv/CV
+https://Ivan-Chem.github.io/rsschool-cv/cv
